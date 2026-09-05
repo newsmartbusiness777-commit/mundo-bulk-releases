@@ -1,2 +1,3 @@
-# mundo-bulk-releases
-Distribución oficial de APKs Android de Mundo Bulk
+# Mundo Bulk Releases
+
+Repositorio oficial para distribución de versiones Android de Mundo Bulk.
